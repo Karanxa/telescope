@@ -37,3 +37,5 @@ Laravel Telescope is open-sourced software licensed under the [MIT license](LICE
 
 
 <!-- Security scan triggered at 2025-09-02 14:30:16 -->
+
+<!-- Security scan triggered at 2025-09-09 05:49:47 -->
